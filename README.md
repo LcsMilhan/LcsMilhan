@@ -8,5 +8,5 @@ class AboutMe {
 }
 
 ```
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsMilhan&show_icons=true&theme=tokyonight&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsMilhan&theme=tokyonight)](https://github.com/LcsMilhan/github-readme-stats)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsmilhan&show_icons=true&theme=tokyonight&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcsmilhan&theme=tokyonight)](https://github.com/lcsmilhan/github-readme-stats)
